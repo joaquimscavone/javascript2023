@@ -1,0 +1,14 @@
+// 60 = 360;
+// s = angulo;
+// 60angulo = 360 * s;
+// angulo = 360 * s / 60
+// angulo = 6 * s
+
+
+12 = 360;
+h = angulo;
+
+12 * angulo =  h* 360
+angulo = h * 360 / 12
+angulo = h * 30
+
